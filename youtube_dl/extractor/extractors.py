@@ -825,6 +825,10 @@ from .nowness import (
     NownessPlaylistIE,
     NownessSeriesIE,
 )
+from .noice import (
+    NoiceIE,
+    NoiceCatalogIE
+)
 from .noz import NozIE
 from .npo import (
     AndereTijdenIE,
